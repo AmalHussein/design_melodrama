@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total: 9.99
+  date: 2013-12-03 11:44:36
+  processed: false
+  confirmation: MyText
+
+two:
+  total: 9.99
+  date: 2013-12-03 11:44:36
+  processed: false
+  confirmation: MyText
